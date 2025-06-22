@@ -1,1 +1,1 @@
-# AI-Summery-Articles-Chrome-Extension-
+# AI-Summery-Articles-Chrome-Extension
